@@ -1,0 +1,38 @@
+.navbar{
+    text-align: center;
+    padding: 2rem;
+    background-color: #A93226 ;
+    font-size: 2rem;
+}
+
+textarea{
+    padding: 3rem ;
+   display: block;
+    width: 50%;
+    margin: auto;
+    margin-top: 2rem;
+    border: 2px solid black;
+}
+
+#btn{
+    padding: 0.7rem;
+    background-color: #A93226;
+    width: 20%;
+    display: block;
+    margin: auto;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+
+}
+
+.output-head{
+    text-align: center;
+}
+
+#output{
+   border: 2px solid black;
+   width: 50%;
+   margin: auto;
+   padding: 3rem;
+   margin-top: 2rem;
+}
